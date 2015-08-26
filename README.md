@@ -22,9 +22,6 @@ This is an crawler project, it will grab the information which some boy or girls
 * 产品开源，欢迎其他开发者加入，参与后续开发或维护
 * 免费
 
-# 开发周期
-8月25日 - 9月25日，一个月的时间
-
 # 联系方式 Contact Me
 * Phone: +86 15051839628
 * Email: songkailun@foxmail.com
